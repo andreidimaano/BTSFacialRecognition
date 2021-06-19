@@ -1,0 +1,10 @@
+from bing_image_downloader import downloader
+downloader.download("iu", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("jungkook bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("v bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("jhope bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("jin bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("suga bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("rm bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("jimin bts", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download("Yoo Jae Suk", limit=300,  output_dir='train_dir', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
